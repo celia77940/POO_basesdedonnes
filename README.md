@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=4wv2V4UuA-k&list=PLBq3aRiVuwyx6B9sJip_ZU1lt7jjCw
 ## Architecture du projet 🖱
 
 Dossier DB:
-Db.php
+- Db.php
 
 Dossier Modele :
 - AnnoncesModel.php
